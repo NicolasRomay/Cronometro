@@ -24,6 +24,7 @@ button {
     font-size: 25px;
     background-color:aqua;
     border-radius: 15%;
+    cursor: pointer;
 }
 
 .container {
